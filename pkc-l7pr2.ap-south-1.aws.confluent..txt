@@ -1,0 +1,5 @@
+pkc-l7pr2.ap-south-1.aws.confluent.cloud:9092
+
+key: ZUOUZLWO6UN2ZIUQ
+
+secret:  cfltA/o2UrTXpbWki1c5J/GSUYfreFxIYgHVl2nxsIa4jNR56TUKJPkd3upPaABg
